@@ -1,0 +1,30 @@
+#logo{
+    width: 3rem;
+}
+
+li:hover{
+    background-color: rgb(255, 98, 0);
+    border: 0
+}
+
+#doar{
+    width: 2rem;
+}
+
+.btn-outline-warning img#doar {
+    filter: brightness(0) saturate(100%) invert(70%) sepia(100%) saturate(1000%) hue-rotate(-20deg) brightness(100%) contrast(90%);
+    transition: filter 0.3s ease;
+}
+
+.btn-outline-warning:hover img#doar {
+    filter: none;
+}
+
+.offcanvas-body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link {
+    margin-left: 1rem;
+}
