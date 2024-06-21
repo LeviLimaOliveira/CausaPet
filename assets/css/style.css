@@ -31,3 +31,8 @@ li:hover{
 .nav-link {
     margin-left: 1rem;
 }
+
+.text-center{
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
