@@ -32,7 +32,17 @@ li:hover{
     margin-left: 1rem;
 }
 
-.text-center{
-    padding-top: 1rem;
-    padding-bottom: 2rem;
+.carousel{
+    margin-bottom: 3rem;
 }
+
+.col1{
+    margin-bottom: 3rem ;
+    margin-top: 1rem;
+}
+
+.col2{
+    margin-bottom: 3rem ;
+    padding: 0;
+}
+
