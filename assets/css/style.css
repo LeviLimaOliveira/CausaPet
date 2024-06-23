@@ -11,16 +11,54 @@ li:hover{
 }
 
 #doar{
-    width: 2rem;
+    width: 1.5rem;
 }
 
-.btn-outline-warning img#doar {
+/* .btn-n img {
     filter: brightness(0) saturate(100%) invert(70%) sepia(100%) saturate(1000%) hue-rotate(-20deg) brightness(100%) contrast(90%);
     transition: filter 0.3s ease;
 }
 
-.btn-outline-warning:hover img#doar {
+.btn-n:hover img {
     filter: none;
+} */
+
+.btn-n img {
+    filter: invert(100%) brightness(100%);
+    transition: filter 0.3s ease;
+}
+
+.btn-n{
+    color: white;
+    background-color:#ff5528 ;
+    border-radius: 2rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border: 0;
+}
+
+.btn-n:hover {
+    color: white;
+    background-color:#ff5528 ;
+    border:2px solid white;
+    border-radius: 2rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.btn-b{
+    color: white;
+    background-color:#ff5528 ;
+    border-radius: 2rem;
+}
+.btn-b:hover{
+    color: white;
+    background-color:black ;
+    border-radius: 2rem;
 }
 
 .offcanvas-body{
