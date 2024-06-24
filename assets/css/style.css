@@ -84,3 +84,10 @@ li:hover{
     padding: 0;
 }
 
+.img-whats{
+    width: 3rem;
+}
+
+.whats-button{
+    z-index: 1;
+}
