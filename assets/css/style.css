@@ -10,18 +10,9 @@ li:hover{
     border: 0
 }
 
-#doar{
+.doar{
     width: 1.5rem;
 }
-
-/* .btn-n img {
-    filter: brightness(0) saturate(100%) invert(70%) sepia(100%) saturate(1000%) hue-rotate(-20deg) brightness(100%) contrast(90%);
-    transition: filter 0.3s ease;
-}
-
-.btn-n:hover img {
-    filter: none;
-} */
 
 .btn-n img {
     filter: invert(100%) brightness(100%);
@@ -90,4 +81,65 @@ li:hover{
 
 .whats-button{
     z-index: 1;
+}
+
+.btn-c{
+    color: #ff5528;
+    background-color:#fff ;
+    border-radius: 2rem;
+    margin-bottom: 3rem;
+    width: 10rem;
+}
+.btn-c:hover{
+    color: white;
+    background-color:black ;
+    border-radius: 2rem;
+    margin-bottom: 3rem;
+    width: 10rem;
+}
+
+.ajude{
+    background-color: #ff5528;
+    color: #fff;
+}
+
+.help{
+    font-size: 3rem;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+}
+
+.footer{
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    background-color: #000;
+    color: #fff;
+}
+
+.img-footer{
+    width: 1rem;
+}
+
+.text-white{
+    color: #fff!important;
+    text-decoration: none;
+}
+
+.p-footer{
+    color: #000!important;
+}
+
+.a-footer{
+    text-decoration: none!important;
+    color: #000;
+}
+
+.a-footer:hover{
+    text-decoration: none!important;
+    color: #0000FF;
+}
+
+.heart{
+    color: #ff5528;
 }
