@@ -1,0 +1,63 @@
+.doe-bkg{
+    background-image: url('/assets/img/FundoDoe.png');
+    background-size: cover;
+    height: 30rem;
+}
+
+.h1-img{
+    color:#fff;
+    font-size: 3rem;
+    padding-top: 6rem;
+}
+
+.valores{
+    background-color:#FFF;
+}
+
+.div-d{
+    border: 1px solid #727272;
+    margin: 1rem;
+    padding: 0;
+}
+
+.div-d:hover{
+    border: 1px solid #ff5528;
+    margin: 1rem;
+}
+
+.h1-sd{
+    padding-top: 3rem;
+    color:#ff5528;
+}
+
+.qrpix{
+    width: 10rem;
+}
+
+.btn-o{
+        color: #fff;
+        background-color:#ff5528 ;
+        border-radius: 2rem;
+        margin-bottom: 1rem;
+}
+.btn-o:hover{
+        color: white;
+        background-color:black ;
+        border-radius: 2rem;
+        margin-bottom: 1rem;
+}
+
+.imgRifa{
+    width: 12rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+.imgPeg{
+    width: 15.8rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+.div-pix{
+    padding-bottom: 1rem;
+}
