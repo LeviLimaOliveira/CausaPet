@@ -9,7 +9,35 @@
     margin-bottom: 2rem;
 }
 
-.col p{
+.p1{
     color: #000;
     margin-top: 1rem;
+}
+
+.doe-bkg-2{
+    background-image: url('../img/Animais.png');
+    background-size: cover;
+    height: 20rem;
+}
+
+.h1-img2{
+    color:#fff;
+    font-size: 3rem;
+    padding-top: 3rem;
+}
+
+.MVV{
+   background-color: #212529;
+}
+
+.h1-img3{
+    color:#fff;
+    font-size: 3.7rem;
+    padding-top: 2rem;
+}
+
+.p2{
+    color:#fff;
+    font-size: 1rem;
+    padding-bottom: 1rem;
 }
