@@ -1,0 +1,58 @@
+.doe-bkg10{
+    background-image: url('../img/paisagens5.jpg');
+    background-size: cover;
+    height: 20rem;
+}
+
+.h1-img5{
+    color:#fff;
+    font-size: 3rem;
+    padding-top: 3rem;
+}
+
+.img-contato{
+    width: 3rem;
+    margin: 1rem;
+}
+
+.h1-contato{
+    color: #ff5528;
+    font-size: 4rem;
+    margin-top: 4rem;
+}
+
+.p-contato{
+    font-size: 2rem;
+}
+
+.margin-col{
+    margin-bottom: 3rem;
+}
+
+.margin-col2{
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+
+.form-style{
+    border: 1px solid #dee2e6;
+    font-size: 1rem;
+}
+
+.btn-form{
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    border-radius: 0;
+    background-color: #404040;
+    color: #fff
+}
+
+.btn-form:hover{
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    border-radius: 0;
+    background-color: #000;
+    color: #fff
+}
